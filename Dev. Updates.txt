@@ -1,0 +1,14 @@
+# Updates on Game Development
+# Created by Isaac Vrba (Batteries)
+
+--Pre-alpha
+
+Version 0.0.1 
+11/22/21
+-Got the IDE working with pygames
+-Have the window for the game with sample image
+-Ended on trying to get a character image to load
+
+
+--Alpha
+--Beta
