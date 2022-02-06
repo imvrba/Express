@@ -1,5 +1,5 @@
 # Updates on Game Development
-# Created by Isaac Vrba (Batteries)
+# Created by Isaac Vrba
 
 --Pre-alpha
 
